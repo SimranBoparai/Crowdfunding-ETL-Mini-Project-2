@@ -4,12 +4,7 @@ This project involves building an ETL (Extract, Transform, Load) pipeli
 
 
 # Table of Contents
-1. [Prerequisties](#prerequisites)
-  - [Installation](#installation)
-  - [Repository Setup](#repository-setup)
-  - [Git Bash Command Example](#git-bash-command-example)
-2. [Repository Structure](#repository-structure)
-3. [Project Instructions](#project-instructions)
+
 - [Crowdfunding ETL-Mini Project](#crowdfunding-etl-mini-project)
 - [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
@@ -31,12 +26,6 @@ This project involves building an ETL (Extract, Transform, Load) pipeli
   - [PART 3 Example:](#part-3-example)
   - [PART 4 Example:](#part-4-example)
 - [Acknowledgements](#acknowledgements)
-4. [Example Code](#example-code)
-    - [PART 1 Example](#part-1-example)
-    - [PART 2 Example](#part-2-example)
-    - [PART 3 Example](#part-3-example)
-    - [PART 4 Example](#part-4-example)
-5. [Acknowledgements](#acknowledgements)
 
 
 # Prerequisites
