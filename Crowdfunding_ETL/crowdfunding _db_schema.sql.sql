@@ -51,7 +51,7 @@ CREATE TABLE campaign (
     CONSTRAINT pk_campaign PRIMARY KEY (cf_id)
 );
 
-SELECT * FROM contacts;
+SELECT * FROM campaign;
 
 
 ALTER TABLE campaign ADD CONSTRAINT fk_campaign_contact_id FOREIGN KEY(contact_id)
