@@ -1,12 +1,6 @@
-# Crowdfunding ETL-Mini Project
-
-This project involves building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and Python dictionary methods or regular expressions to process data from Excel files. The processed data will be saved as CSV files, which will be used to create an ERD and table schema by uploading data into a Postgres database. 
-
-
 # Table of Contents
-
-- [Crowdfunding ETL-Mini Project](#crowdfunding-etl-mini-project)
 - [Table of Contents](#table-of-contents)
+- [Project Discription](#project-discription)
 - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Repository Setup:](#repository-setup)
@@ -26,6 +20,10 @@ This project involves building an ETL (Extract, Transform, Load) pipeli
   - [PART 3 Example:](#part-3-example)
   - [PART 4 Example:](#part-4-example)
 - [Acknowledgements](#acknowledgements)
+
+
+# Project Discription 
+This project involves building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and Python dictionary methods or regular expressions to process data from Excel files. The processed data will be saved as CSV files, which will be used to create an ERD and table schema by uploading data into a Postgres database. 
 
 
 # Prerequisites
@@ -209,6 +207,7 @@ CREATE TABLE contacts(
 SELECT * 
 FROM contacts;
 ```
+
 
 # Acknowledgements
 I want to mention the following individuals and resources for their assistance and support throughout this assignment: 
